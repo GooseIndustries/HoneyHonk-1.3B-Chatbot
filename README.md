@@ -30,11 +30,11 @@ Installation:
 FAQ's and troubleshooting:
 doesnt work? try running with python3 instead of python:
 
-    python3 honeyhonk13b.py
+        python3 honeyhonk13b.py
 
 Says it cant find the file? copy the adress of where your file is and run it:
 
-    python C:\users\gooseindustries\Desktop\HoneyHonk stuff\chatbot files\scripts\honeyhonk13b.py 
+        python C:\users\gooseindustries\Desktop\HoneyHonk stuff\chatbot files\scripts\honeyhonk13b.py 
 
 just replace that with the actual address for your file.
 (and yes this is our actual address for the chatbots)
