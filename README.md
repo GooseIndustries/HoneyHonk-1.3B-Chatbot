@@ -13,7 +13,7 @@ Requirements:
 Python 3.8 (or more)
 PyTorch
 Transformers library
-(you will install these later)
+(you will install PyTorch and Transformers later)
 
 Installation:
 1. Download the honeyhonk13b.py file
